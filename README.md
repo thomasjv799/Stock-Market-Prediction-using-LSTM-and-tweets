@@ -11,4 +11,5 @@ After this stock data was extracted using yahoo finance and merged with clean da
 
 A Simple LSTM layer was then used for training and results were analyzed.
 
-![alt text](https://github.com/wanderer799/Beta-VAE-on-Animal-Face/blob/master/Beta%2010%20300%20epochs.png?raw=true)
+![alt text](https://github.com/wanderer799/scaling-octo-fiesta/blob/main/bokeh_plot.png?raw=true)
+
